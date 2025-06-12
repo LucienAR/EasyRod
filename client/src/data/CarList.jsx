@@ -1,0 +1,66 @@
+import car1 from '../assets/car1.jpg';
+
+const CarList = [
+  {
+    title: '2024 Mitsubishi XPANDER HEV GT 1.6',
+    mileage: 14911,
+    gear: 'Automatic',
+    location: 'Taling Chan',
+    price: 758000,
+    monthly: 15816,
+    totalPrice: 811060,
+    image: car1,
+  },
+  {
+    title: '2021 Toyota FORTUNER GR SPORT 4WD 2.8',
+    mileage: 67187,
+    gear: 'Automatic',
+    location: 'Taling Chan',
+    price: 1398000,
+    monthly: 29169,
+    totalPrice: 1495860,
+    image: car1,
+  },
+  {
+    title: '2023 Isuzu MU-X ULTIMATE 3.0',
+    mileage: 28874,
+    gear: 'Automatic',
+    location: 'Taling Chan',
+    price: 1038000,
+    monthly: 21658,
+    totalPrice: 1110660,
+    image: car1,
+  },
+  {
+    title: '2023 Isuzu MU-X ULTIMATE 3.0',
+    mileage: 28874,
+    gear: 'Automatic',
+    location: 'Taling Chan',
+    price: 1038000,
+    monthly: 21658,
+    totalPrice: 1110660,
+    image: car1,
+  },
+  {
+    title: '2023 Isuzu MU-X ULTIMATE 3.0',
+    mileage: 28874,
+    gear: 'Automatic',
+    location: 'Taling Chan',
+    price: 1038000,
+    monthly: 21658,
+    totalPrice: 1110660,
+    image: car1,
+  },
+  {
+    title: '2023 Isuzu MU-X ULTIMATE 3.0',
+    mileage: 28874,
+    gear: 'Automatic',
+    location: 'Taling Chan',
+    price: 1038000,
+    monthly: 21658,
+    totalPrice: 1110660,
+    image: car1,
+  },
+];
+
+export default CarList;
